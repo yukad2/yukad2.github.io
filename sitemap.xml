@@ -13,11 +13,6 @@
   </url>
   
   <url>
-    <loc>https://yukad2.github.io/posts/mount/</loc>
-    <lastmod>2020-01-23T12:20:28+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yukad2.github.io/posts/</loc>
     <lastmod>2020-01-23T12:20:28+09:00</lastmod>
   </url>
@@ -43,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://yukad2.github.io/posts/mount/</loc>
+    <lastmod>2020-01-23T12:20:28+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yukad2.github.io/about/desc/</loc>
     <lastmod>2020-01-23T10:15:28+09:00</lastmod>
   </url>
@@ -50,6 +50,21 @@
   <url>
     <loc>https://yukad2.github.io/about/</loc>
     <lastmod>2020-01-23T10:15:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yukad2.github.io/tags/github/</loc>
+    <lastmod>2020-01-22T12:51:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yukad2.github.io/tags/hugo/</loc>
+    <lastmod>2020-01-22T12:51:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yukad2.github.io/posts/thissite/</loc>
+    <lastmod>2020-01-22T12:51:50+09:00</lastmod>
   </url>
   
 </urlset>

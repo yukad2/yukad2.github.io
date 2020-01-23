@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>Mount</title>
+      <title>トラッカーマウント</title>
       <link>https://yukad2.github.io/posts/mount/</link>
       <pubDate>Thu, 23 Jan 2020 12:20:28 +0900</pubDate>
       
       <guid>https://yukad2.github.io/posts/mount/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>このサイト</title>
+      <link>https://yukad2.github.io/posts/thissite/</link>
+      <pubDate>Wed, 22 Jan 2020 12:51:50 +0900</pubDate>
+      
+      <guid>https://yukad2.github.io/posts/thissite/</guid>
+      <description>概要 このサイトはHugoでビルドしました。 Hugo Static Site Generator v0.62.2-83E50184 linux/amd64 BuildDate: 2020-01-05T18:51:38Z テーマはDreamを利用しました。 ホスティングはGithub Pagesです。</description>
     </item>
     
   </channel>
