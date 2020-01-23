@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on yuka&#39;s portfolio</title>
+    <link>https://yukad2.github.io/about/</link>
+    <description>Recent content in Abouts on yuka&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 23 Jan 2020 10:15:28 +0900</lastBuildDate>
+    
+	<atom:link href="https://yukad2.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://yukad2.github.io/about/desc/</link>
+      <pubDate>Thu, 23 Jan 2020 10:15:28 +0900</pubDate>
+      
+      <guid>https://yukad2.github.io/about/desc/</guid>
+      <description>Yuka Ayukawaです。 Twitter:@yukad2_</description>
+    </item>
+    
+  </channel>
+</rss>
