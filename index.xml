@@ -6,10 +6,28 @@
     <description>Recent content on yuka&#39;s portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jan 2020 13:20:22 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2020 17:51:07 +0900</lastBuildDate>
     
 	<atom:link href="https://yukad2.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>改変シンシアちゃん</title>
+      <link>https://yukad2.github.io/posts/cynthia/</link>
+      <pubDate>Fri, 24 Jan 2020 17:51:07 +0900</pubDate>
+      
+      <guid>https://yukad2.github.io/posts/cynthia/</guid>
+      <description>説明 VRC向けの改変Humanoidアバターです。 【オリジナル3Dモデル】シンシアちゃんをベースにしています。 なのは制服 Blenderで各オ</description>
+    </item>
+    
+    <item>
+      <title>Environment</title>
+      <link>https://yukad2.github.io/about/environment/</link>
+      <pubDate>Fri, 24 Jan 2020 16:59:27 +0900</pubDate>
+      
+      <guid>https://yukad2.github.io/about/environment/</guid>
+      <description>PC AMD Ryzen5 3600X NVIDIA GeForce GTX 1070Ti AsRock X570 PhantomGaming4 CFD Gaming CX1 DDR4-3200 16GBx2 CoolerMaster V850 Gold xR Oculus Rift CV1 Rift Sensor 3台 HTC BaseStation 1.0 2台 Vive Tracker 2018 3台 Kinect v2</description>
+    </item>
     
     <item>
       <title>改変セィミヤちゃん</title>
@@ -17,7 +35,7 @@
       <pubDate>Thu, 23 Jan 2020 13:20:22 +0900</pubDate>
       
       <guid>https://yukad2.github.io/posts/slimiya/</guid>
-      <description>説明 最初に改変した自分用のアバターです。 【オリジナル3Dモデル】セィミヤ ポニテワンピースをベースに、テクスチャ改変をしています。 また、コート</description>
+      <description>説明 最初に改変した自分用のHumanoidアバターです。 【オリジナル3Dモデル】セィミヤ ポニテワンピースをベースにテクスチャ改変をしています</description>
     </item>
     
     <item>
@@ -26,7 +44,7 @@
       <pubDate>Thu, 23 Jan 2020 12:20:28 +0900</pubDate>
       
       <guid>https://yukad2.github.io/posts/mount/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+      <description>説明 Vive Trackerを腰に固定するためのマウントを印刷しました。 腰トラを飛びにくくするマウンター(STL)を元にしています。 使用したソフトウ</description>
     </item>
     
     <item>
@@ -35,7 +53,7 @@
       <pubDate>Thu, 23 Jan 2020 10:15:28 +0900</pubDate>
       
       <guid>https://yukad2.github.io/about/desc/</guid>
-      <description>Yuka Ayukawaです。 Twitter:@yukad2_</description>
+      <description>Yuka Ayukawaです。 2018年夏にOculus Riftを購入、2019年夏にVRChatを始めてから創作意欲が爆発しました。 xR関係で、現</description>
     </item>
     
     <item>
@@ -44,7 +62,7 @@
       <pubDate>Wed, 22 Jan 2020 12:51:50 +0900</pubDate>
       
       <guid>https://yukad2.github.io/posts/thissite/</guid>
-      <description>概要 このサイトはHugoでビルドしました。 Hugo Static Site Generator v0.62.2-83E50184 linux/amd64 BuildDate: 2020-01-05T18:51:38Z テーマはDreamを利用しました。 ホスティングはGithub Pagesです。</description>
+      <description>説明 このサイトはHugoでビルドしました。 Hugo Static Site Generator v0.62.2-83E50184 linux/amd64 BuildDate: 2020-01-05T18:51:38Z テーマはDreamを利用しました。 ホスティングはGithub Pagesです。</description>
     </item>
     
   </channel>

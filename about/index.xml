@@ -6,10 +6,19 @@
     <description>Recent content in Abouts on yuka&#39;s portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jan 2020 10:15:28 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2020 16:59:27 +0900</lastBuildDate>
     
 	<atom:link href="https://yukad2.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Environment</title>
+      <link>https://yukad2.github.io/about/environment/</link>
+      <pubDate>Fri, 24 Jan 2020 16:59:27 +0900</pubDate>
+      
+      <guid>https://yukad2.github.io/about/environment/</guid>
+      <description>PC AMD Ryzen5 3600X NVIDIA GeForce GTX 1070Ti AsRock X570 PhantomGaming4 CFD Gaming CX1 DDR4-3200 16GBx2 CoolerMaster V850 Gold xR Oculus Rift CV1 Rift Sensor 3台 HTC BaseStation 1.0 2台 Vive Tracker 2018 3台 Kinect v2</description>
+    </item>
     
     <item>
       <title>About Me</title>
@@ -17,7 +26,7 @@
       <pubDate>Thu, 23 Jan 2020 10:15:28 +0900</pubDate>
       
       <guid>https://yukad2.github.io/about/desc/</guid>
-      <description>Yuka Ayukawaです。 Twitter:@yukad2_</description>
+      <description>Yuka Ayukawaです。 2018年夏にOculus Riftを購入、2019年夏にVRChatを始めてから創作意欲が爆発しました。 xR関係で、現</description>
     </item>
     
   </channel>
