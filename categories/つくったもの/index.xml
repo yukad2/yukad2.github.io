@@ -6,10 +6,19 @@
     <description>Recent content in つくったもの on yuka&#39;s portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jan 2020 17:51:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2020 19:58:42 +0900</lastBuildDate>
     
 	<atom:link href="https://yukad2.github.io/categories/%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Keyboard</title>
+      <link>https://yukad2.github.io/posts/keyboard/</link>
+      <pubDate>Mon, 10 Feb 2020 19:58:42 +0900</pubDate>
+      
+      <guid>https://yukad2.github.io/posts/keyboard/</guid>
+      <description>説明 自分で選んだスイッチをはんだ付けして作った4行6列左右分割キーボードです。 基板とケースはキットです。</description>
+    </item>
     
     <item>
       <title>改変シンシアちゃん</title>
