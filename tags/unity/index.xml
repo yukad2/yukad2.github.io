@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unity on yuka&#39;s portfolio</title>
+    <title>unity on yuka&#39;s portfolio</title>
     <link>https://yukad2.github.io/tags/unity/</link>
-    <description>Recent content in Unity on yuka&#39;s portfolio</description>
+    <description>Recent content in unity on yuka&#39;s portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jan 2020 17:51:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2020 20:18:09 +0900</lastBuildDate>
     
 	<atom:link href="https://yukad2.github.io/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ARでアバターを踊らす</title>
+      <link>https://yukad2.github.io/posts/arapp/</link>
+      <pubDate>Mon, 10 Feb 2020 20:18:09 +0900</pubDate>
+      
+      <guid>https://yukad2.github.io/posts/arapp/</guid>
+      <description>AR進捗1 pic.twitter.com/9xXrauJOVy &amp;mdash; yuka (@yukad2_) February 7, 2020 進捗2 VRCに上げるわけではないのでmecanim使わせていだきました https://t.co/sGiU7ZNcrt pic.twitter.com/m6SURBxI1r &amp;mdash; yuka (@yukad2_) February 7, 2020 進捗3 デレステARでやってるけ</description>
+    </item>
     
     <item>
       <title>改変シンシアちゃん</title>
